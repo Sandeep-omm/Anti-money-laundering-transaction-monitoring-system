@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+data/
+!data/
+data/*
+!data/DATASET.md
+models/*
+!models/.gitkeep
+.streamlit/secrets.toml
